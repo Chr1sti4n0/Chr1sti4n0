@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Christian from Phoenix, Arizona and I am a recent graduate from a full stack web development bootcamp. I enjoy working with the front-end frameowrk of React. You can find my linked in at linkedin.com/in/christian-jimenez-8bb6bb75
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chr1sti4n0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Chr1sti4n0/Chr1sti4n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
