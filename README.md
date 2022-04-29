@@ -4,7 +4,7 @@ I'm Christian from Phoenix, Arizona and I am a recent graduate from a full stack
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chr1sti4n0&show_icons=true&theme=radical" />
 
-<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1sti4n0&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1sti4n0&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
