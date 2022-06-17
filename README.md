@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Christian from Phoenix, Arizona and I am a recent graduate from a full stack web development bootcamp. I enjoy working with the front-end frameowrks of React and Next.js. I recently came across Tailwind CSS and implemented it in my DJ Blog project. I am currently working on building a movie streaming application
+I'm Christian from Phoenix, Arizona and I am a recent graduate from a full stack web development bootcamp. I enjoy working with the front-end frameowrks of React and Next.js. I recently came across Tailwind CSS and implemented it in my DJ Blog project. I am currently working on building a movie streaming application. My latest projects can be found pinned below or in my portfolio (see below). Feel free to reach out if you would like to work on a project together!
 
-- 📫 How to reach me: ...
-[LinkedIn](https://www.linkedin.com/in/christian-jimenez-8bb6bb75/)
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/christian-jimenez-8bb6bb75/)
+  - [Portfolio](https://chr1sti4n0.github.io/professional-portfolio/)
 
 - 💬 Ask me about my next project!
 
